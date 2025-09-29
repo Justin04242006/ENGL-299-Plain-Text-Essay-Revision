@@ -1,10 +1,9 @@
-Justin Peabody
+---
+title: UCWR 110 Researched Argument Essay
+author: Justin Peabody
+date: 4/25/2025
+---
 
-Researched Argument Essay
-
-UCWR 110
-
-4/25/2025
 
 Across all forms of mass media, a dire message frequently appears: global temperatures are rising, largely due to increases in greenhouse gas emission rates. In response to this, many local, state and national governments have enacted emission reduction policies. One such policy is a carbon tax. The website earth.org defines a carbon tax as "a government-imposed pricing mechanism that places a fee on GHG emissions from burning planet-warming fuels including oil, gas, and coal ... measured per ton of carbon dioxide equivalent emissions released \[that\] needs to be paid for by the burning entity" (Omolere 2024). Carbon taxes require businesses to compensate the government for operations that release greenhouse gases. This is done to monetarily incentivize industries to adopt carbon-efficient technologies and operational methods. Carbon tax revenue can be used by the government to invest in such technologies and methods, fund environmental restoration efforts, establish cuts in income and property taxes, and more. However, carbon tax policies have shortcomings. They can place an excessive financial burden on lower and middle class taxpayers. In addition, other policies have yielded greater emission reductions than carbon taxes. Federal carbon tax policies, which have been adopted by European nations since the 1990s, have received both praise and pushback for these reasons. The United States has several state level carbon policies but no federal carbon policy. All arguments considered, a federal carbon tax should be implemented in the United States as a mitigative policy to address climate change because well-designed carbon tax policies can be economically impartial, compensate for potential limitations in other decarbonization plans, and facilitate the future adoption of other policies.
 
