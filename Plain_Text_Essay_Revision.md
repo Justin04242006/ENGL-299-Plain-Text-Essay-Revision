@@ -4,6 +4,8 @@ author: Justin Peabody
 date: 4/25/2025
 ---
 
+## Introduction ##
+
 
 Across all forms of mass media, a dire message frequently appears: global temperatures are rising, largely due to increases in greenhouse gas emission rates. 
 In response to this, many local, state and national governments have enacted emission reduction policies. One such policy is a carbon tax. 
@@ -17,6 +19,10 @@ In addition, other policies have yielded greater emission reductions than carbon
 Federal carbon tax policies, which have been adopted by European nations since the 1990s, have received both praise and pushback for these reasons. 
 The United States has several state level carbon policies but no federal carbon policy. 
 All arguments considered, a federal carbon tax should be implemented in the United States as a mitigative policy to address climate change because well-designed carbon tax policies can be economically impartial, compensate for potential limitations in other decarbonization plans, and facilitate the future adoption of other policies.
+
+
+## Body Paragraph 1 ##
+
 
 Carbon taxes should be federally implemented in the United States because they can be designed in an economically just fashion. 
 Many people believe carbon taxes are regressive --- meaning people of different economic classes are affected disproportionately --- and are thus inequitable. 
@@ -42,6 +48,10 @@ Based on this, Douenne and Fabre argue that people's opinions of carbon taxes ar
 This paper provides a bar graph showing that French citizens in the bottom 10% of France's income range would have the highest net wealth gains under a tax and dividend policy, and these gains decrease as income decile increases (Douenne, Fabre, 2019). 
 This suggests that, while some carbon tax policies are regressive, tax and dividend policies can improve equality because they involve uniform redistribution of government revenue to taxpayers. 
 As a nation with a relatively high wealth gap, the US would especially benefit from a policy that returns some of its revenue to less affluent citizens.
+
+
+## Body Paragraph 2 ##
+
 
 In addition to flexibility of revenue use, carbon taxes would be an effective policy in the United States because they have important advantages over other policies which price greenhouse gas emissions. 
 One such policy is called an emission trading scheme, also known as a cap-and-trade mechanism. 
@@ -85,6 +95,10 @@ Such a decision will require the US government to monitor nationwide income ineq
 After the delicate balance between the welfare of individual citizens, businesses, and the planet has been deliberated on, perhaps the only step the government can take is to adopt a tax with revenue allocations that seem reasonable, observe the policy's economic effects, and adjust the policy from there. 
 If no federal carbon tax policy is created, there is no hope of progress towards cleaner economies and a cleaner nation because, for reasons aforementioned, carbon taxes are necessary to transition to policies that restrict businesses' carbon emissions.]{.mark}
 
+
+## Conclusion ##
+
+
 [For any country, including the United States, battling the effects of global warming requires many cohesive solutions. 
 No single policy can possibly curb all emissions, and neither carbon taxes nor emissions trading schemes are exceptions to this. 
 However, a carbon tax possesses key elements that would allow it to financially prepare the US government for policies with more dramatic emission reductions. 
@@ -94,7 +108,7 @@ For these reasons, the United States should implement a federal carbon tax as a 
 As a developed country in the midst of a global climate crisis, the United States has ample opportunity to set an international example of commitment to the welfare of planet Earth, the current generation, and future generations. 
 The implementation of a carbon tax is one of many crucial steps toward this objective.]{.mark}
 
-[[Works cited]{.underline}]{.mark}
+## Works Cited ##
 
 Andersson, Julius. "Carbon Tax Regressivity and Income Inequality." *freepolicybriefs.org,* 17 May 2021. [[https://freepolicybriefs.org/2021/05/17/carbon-tax-regressivity/]{.underline}](https://freepolicybriefs.org/2021/05/17/carbon-tax-regressivity/). Accessed 30 Mar. 2025.
 
