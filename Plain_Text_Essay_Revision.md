@@ -108,7 +108,7 @@ For these reasons, the United States should implement a federal carbon tax as a 
 As a developed country in the midst of a global climate crisis, the United States has ample opportunity to set an international example of commitment to the welfare of planet Earth, the current generation, and future generations. 
 The implementation of a carbon tax is one of many crucial steps toward this objective.]{.mark}
 
-## Works Cited ##
+## Bibliography ##
 
 Andersson, Julius. "Carbon Tax Regressivity and Income Inequality." *freepolicybriefs.org,* 17 May 2021. [[https://freepolicybriefs.org/2021/05/17/carbon-tax-regressivity/]{.underline}](https://freepolicybriefs.org/2021/05/17/carbon-tax-regressivity/). Accessed 30 Mar. 2025.
 
