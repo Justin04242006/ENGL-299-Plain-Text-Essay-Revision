@@ -18,7 +18,8 @@ They can place an excessive financial burden on lower and middle class taxpayers
 In addition, other policies have yielded greater emission reductions than carbon taxes. 
 Federal carbon tax policies, which have been adopted by European nations since the 1990s, have received both praise and pushback for these reasons. 
 The United States has several state level carbon policies but no federal carbon policy. 
-All arguments considered, a federal carbon tax should be implemented in the United States as a mitigative policy to address climate change because well-designed carbon tax policies can be economically impartial, compensate for potential limitations in other decarbonization plans, and facilitate the future adoption of other policies.
+All arguments considered, a federal carbon tax should be implemented in the United States as a mitigative policy to address climate change because well-designed carbon tax policies can be economically impartial, compensate for potential limitations in other decarbonization plans, and facilitate the future adoption of other policies. 
+<!--My claim-->
 
 
 ## Body Paragraph 1 ##
