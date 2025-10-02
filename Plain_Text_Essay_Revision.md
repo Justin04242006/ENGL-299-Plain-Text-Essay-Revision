@@ -2,6 +2,8 @@
 title: UCWR 110 Researched Argument Essay
 author: Justin Peabody
 date: 4/25/2025
+abstract: |
+    With the emergence of unprecedented global warming as a result of anthropogenic CO2 emissions, policymakers are continously debating the necessity of federal carbon tax legislation  to minimizing negative human effects on the environment and public health. Taken together, numerous qualitiative and quantiative studies suggest that implementation of carbon taxes is not a question of if, but a question of when. In this essay, I argue that federal carbon taxes ought not to be a final solution; rather, they are best used to set up a country for successful emission reductions under future policies. 
 ---
 
 ## Introduction ##
